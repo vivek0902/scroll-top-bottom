@@ -1,7 +1,3 @@
-Sure! Here's an example of a `README.md` file for your project that explains what it does, how to set it up, and how to use it:
-
----
-
 # Smooth Scroll with Scroll Indicator in React
 
 This project demonstrates how to implement smooth scrolling functionality, section navigation, and a scroll indicator in a React app. It includes:
