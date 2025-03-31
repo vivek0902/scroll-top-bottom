@@ -1,5 +1,5 @@
 # Smooth Scroll with Scroll Indicator in React
-
+live demo https://vivek0902.github.io/scroll-top-bottom/
 This project demonstrates how to implement smooth scrolling functionality, section navigation, and a scroll indicator in a React app. It includes:
 
 - **Smooth Scroll to Top & Bottom** buttons.
